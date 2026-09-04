@@ -1,2 +1,2 @@
 # projetochurn
-Projeto Customer Churn
+Analizado base de bancos abertos de Churn para Análise e Previsão de CLientes com IA Preditiva.
